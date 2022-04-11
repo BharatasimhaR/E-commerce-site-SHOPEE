@@ -1,2 +1,2 @@
-# E-commerce_website_PHP
- This is a complete E-commerce website built with the both front end and back end techonolgies
+# E-commerce_website_SHOPEE
+ This is a complete/fully devoloped E-commerce website built with the both front and back end techonolgies
